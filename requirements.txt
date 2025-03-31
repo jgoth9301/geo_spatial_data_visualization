@@ -1,0 +1,12 @@
+tweepy~=4.15.0
+requests~=2.32.3
+tables
+h5py~=3.13.0
+bs4~=0.0.2
+selenium
+pandas~=2.2.3
+beautifulsoup4~=4.13.3
+urllib3~=2.3.0
+pandas
+textblob
+openpyxl
